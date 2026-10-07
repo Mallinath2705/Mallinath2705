@@ -8,7 +8,8 @@
 
 <br/>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Mallinath2705&color=a78bfa&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Mallinath2705?label=Followers&style=flat-square&color=a78bfa&logo=github&logoColor=white)
 
 </div>
 
@@ -166,7 +167,11 @@
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/A78BFA/Mallinath2705" alt="Mallinath's GitHub contribution chart"/>
+
+<!-- github-readme-activity-graph.vercel.app is currently returning HTTP 402 (its free hosting quota is exhausted) for all users, not just this one — swap back in once it recovers:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mallinath2705&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff"/>
+-->
 
 </div>
 
